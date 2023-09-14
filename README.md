@@ -1,4 +1,4 @@
-# Aprendendo Spring Boot  
+# Spring Boot Project
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/kauezios/springboot-project/blob/main/LICENSE)
 
 # Sobre o projeto
