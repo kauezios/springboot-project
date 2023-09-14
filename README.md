@@ -25,4 +25,4 @@ Esse é um pequeno projeto criado com intuito de aplicar os conhecimentos acerca
 
 Kauê Varela de Araújo Oliveira
 
-https://www.linkedin.com/in/kau%C3%AA-oliveira-827270204/
+https://www.linkedin.com/in/kauevaoliveira/
